@@ -27,6 +27,30 @@ Header(
 .log("partID", getVar("partID")); // log ID for each trial
 
 
+//bilingual scale
+newTrial("bilingualscale",
+    newHtml("scale_html", "bilingualscale.html")
+        .center()
+        .log()
+        .checkboxWarning("您同意后才能继续。")
+        .radioWarning("您需要选择一个选项。")
+        .inputWarning("这个部分需要填写。")
+        .print()
+    ,
+    newButton("continue", "继续")
+        .css("font-size","medium")
+        .center()
+        .print()
+        .wait(    
+            getHtml("scale_html").test.complete()
+            .failure( getHtml("scale_html").warn())
+            ,
+            newTimer("waitDemo", 500)
+                .start()
+                .wait()
+            )
+)
+
 //practice                     
 Template("practice_sentences.csv", row => 
     newTrial("practice",
@@ -85,7 +109,7 @@ var items = [
     ["setcounter", "__SetCounter__", { }],
     ["sendresults", "__SendResults__", { }],    
     ["consent", "Form", { html: { include: "consent.html" } }],
-    ["bilingualscale", "Form", { html: {include: "bilingualscale.html" } }],
+  //  ["bilingualscale", "Form", { html: {include: "bilingualscale.html" } }],
     ["demo", "Form", { html: { include: "demo.html" }, validators: { age: function (s) { if (s.match(/^\d+$/)) return true; else return "Bad value for \u2018age\u2019";} } }],
     ["norming", "Form", { html: { include: "norming.html" } }],
     ["startpractice", Message, {consentRequired: false, html: ["div", ["p", "First you can do six practice sentences."]]}],
