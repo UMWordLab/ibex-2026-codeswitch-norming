@@ -6,6 +6,7 @@ var shuffleSequence = seq("consent", "demo", "IDentry", "norming",
                             "setcounter",
                             "starter",
                             sepWith("sep", rshuffle(startsWith("switch"))),
+                            "bilingualscale",
                             "sendresults",
                             "completion"
                          )

@@ -85,6 +85,7 @@ var items = [
     ["setcounter", "__SetCounter__", { }],
     ["sendresults", "__SendResults__", { }],    
     ["consent", "Form", { html: { include: "consent.html" } }],
+    ["bilingualscale", "Form", { html: {include: "bilingualscale.html" } }],
     ["demo", "Form", { html: { include: "demo.html" }, validators: { age: function (s) { if (s.match(/^\d+$/)) return true; else return "Bad value for \u2018age\u2019";} } }],
     ["norming", "Form", { html: { include: "norming.html" } }],
     ["startpractice", Message, {consentRequired: false, html: ["div", ["p", "First you can do six practice sentences."]]}],
