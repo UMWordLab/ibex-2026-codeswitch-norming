@@ -37,7 +37,7 @@ newTrial("bilingualscale",
         .inputWarning("这个部分需要填写。")
         .print()
     ,
-    newButton("continue", "继续")
+    newButton("continue", "Continue")
         .css("font-size","medium")
         .center()
         .print()
