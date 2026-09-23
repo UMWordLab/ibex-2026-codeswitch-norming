@@ -1,0 +1,129 @@
+label,item,condition,sentence
+switch_subj,1,subj,My mom baked a cake but the harina was very sweet.
+switch_subj,2,subj,The lawyer said that his jefe was disappointed with the team.
+switch_subj,3,subj,I usually bike because my colegio is near my house.
+switch_subj,4,subj,This place and this little abastos have cheap groceries.
+switch_subj,5,subj,My mom said that the duendes are in my garden.
+switch_subj,6,subj,The farmer heard that the conejo was eating near the house.
+switch_subj,7,subj,The shrimp was spicy and the cangrejo was sweet.
+switch_subj,8,subj,My cousin says that the granja has many animals.
+switch_subj,9,subj,She told me that her novio is still living in the city.
+switch_subj,10,subj,The kid and his mascota were going for a walk.
+switch_subj,11,subj,All his clothes and his juguetes are inside the cabinet.
+switch_subj,12,subj,I saw that the aviones were in the sky.
+switch_subj,13,subj,Everyone knows that the alcalde signed the law.
+switch_subj,14,subj,I heard that his vecino was complaining about the noise.
+switch_subj,15,subj,I just checked and the pollo inside the oven is still raw.
+switch_subj,16,subj,The farmer had to wait because the aguacates were not ripe yet.
+switch_subj,17,subj,This year all my dinero is going towards rent.
+switch_subj,18,subj,Remember that her zapatos are outside the house.
+switch_subj,19,subj,The milk is for the cake and the mantequilla for the cookies.
+switch_subj,20,subj,It was dark but her sonrisa was the only thing I could see.
+switch_subj,21,subj,I told my mom that her caldos are delicious.
+switch_subj,22,subj,I showed up late and the boda was already ending.
+switch_subj,23,subj,The mall opened a new store and more camisetas were sold there.
+switch_subj,24,subj,The car was stolen but my bicicleta was fine.
+switch_subj,25,subj,The instructor saw that all the mujeres were leaving the classroom.
+switch_subj,26,subj,We went to the hospital and the enfermera gave us the results.
+switch_subj,27,subj,It was cold because the ventana was left open last night.
+switch_subj,28,subj,It was raining so all the equipos practiced indoors.
+switch_subj,29,subj,It smelled good because the panadero was baking this morning.
+switch_subj,30,subj,I am moving out because my contrato is not getting renewed next year.
+switch_subj,31,subj,The suit is dirty but his corbata is clean.
+switch_subj,32,subj,I went to the laundromat and the secadora was broken.
+switch_subj,33,subj,My friend and his esposa were telling me about their wedding.
+switch_subj,34,subj,The athlete could not run because his rodilla was fractured.
+switch_subj,35,subj,The family loves traveling and Navidad is the perfect time for it.
+switch_subj,36,subj,The plates and the tazas are in the kitchen.
+switch_subj,37,subj,Bring your laptop and your maleta to the trip.
+switch_subj,38,subj,It was raining so her maquillaje got smudged.
+switch_subj,39,subj,The man is packing his bags because his vuelo leaves tomorrow.
+switch_subj,40,subj,Take the pens and the cuadernos for your class.
+switch_obj,41,obj,Her mom went to the tienda to get groceries.
+switch_obj,42,obj,We will have a picnic in the jardines after the mass.
+switch_obj,43,obj,My mom does not think they are a pareja right now.
+switch_obj,44,obj,The boy was excited to see the pulpo at the zoo today.
+switch_obj,45,obj,The kid was giving agua to the dog in the backyard.
+switch_obj,46,obj,I heard all the chisme when I came back from work.
+switch_obj,47,obj,Do not forget to take the pasteles out of the fridge.
+switch_obj,48,obj,I need to put all the muebles inside the store.
+switch_obj,49,obj,Her mom told me she got a green peluca for her birthday.
+switch_obj,50,obj,He needs to teach him some modales at the table.
+switch_obj,51,obj,The group of friends left the discoteca late last night.
+switch_obj,52,obj,He can take as many bebidas as he wants.
+switch_obj,53,obj,The mom bough a vestido for her daughter.
+switch_obj,54,obj,I left my keys on the mesa at the party yesterday.
+switch_obj,55,obj,I need to do all my trabajo before leaving.
+switch_obj,56,obj,I went to live in a lot of sitios throughout my life.
+switch_obj,57,obj,He met a friend from the barrio where he used to work.
+switch_obj,58,obj,He cut cane even though he had his negocio in the city.
+switch_obj,59,obj,Leave everything they do not need in the basurero before they leave.
+switch_obj,60,obj,The woman needed her abogado for the lawsuit.
+switch_obj,61,obj,The kid thought I stole his dulce at the fair.
+switch_obj,62,obj,The artist had three cajas full of paints.
+switch_obj,63,obj,The mayor is fixing up our pueblo for the tourists.
+switch_obj,64,obj,My mom used the manguera to water the plants.
+switch_obj,65,obj,Pass me a towel and the tijeras I use to cut my hair.
+switch_obj,66,obj,I bought a tapete for the living room.
+switch_obj,67,obj,I am going to have gray manchas all over my clothes.
+switch_obj,68,obj,I did not know I had a pariente who came from my country.
+switch_obj,69,obj,My son needs to finish his tareas after school.
+switch_obj,70,obj,We saw some deportistas at practice today.
+switch_obj,71,obj,The student is cleaning his shoes with the trapo before school.
+switch_obj,72,obj,The carpenter is fixing the estante in the living room.
+switch_obj,73,obj,The grocery store was selling cheap lechugas yesterday.
+switch_obj,74,obj,Give me some chicle before the movie starts.
+switch_obj,75,obj,I found the libros that I needed on the shelf.
+switch_obj,76,obj,The cashier accidentally broke all the huevos when I was paying.
+switch_obj,77,obj,Remember to move the sillas after the meeting.
+switch_obj,78,obj,The comedian had really good chistes and made everyone laugh.
+switch_obj,79,obj,The kid was feeding the palomas in the park.
+switch_obj,80,obj,The runners finished the carrera and the woman won.
+switch_verb,81,verb,They are always there bailando at every event.
+switch_verb,82,verb,I think the painting parece a bit more confusing than the other one.
+switch_verb,83,verb,She took the bus and her boyfriend fue by car.
+switch_verb,84,verb,The dad was walking around riendo with his son.
+switch_verb,85,verb,My mom and I will go back inside to start guardando our things.
+switch_verb,86,verb,They were chosen as the managers so they could resolver the problems.
+switch_verb,87,verb,I will go with my parents so they can comunicarse with the doctor.
+switch_verb,88,verb,Their family will have fun if they come to festejar with us.
+switch_verb,89,verb,I was waiting becase my mom was cocinando our dinner tonight.
+switch_verb,90,verb,My mom is taking a long time horneando vegetables.
+switch_verb,91,verb,The boy spends the night estudiando at the library.
+switch_verb,92,verb,The professor califica the assignments every weekend.
+switch_verb,93,verb,I help my friend cambiar the lights in his house.
+switch_verb,94,verb,The patient needs to tomar his medicine.
+switch_verb,95,verb,The construction worker was trabajando to repare the streets.
+switch_verb,96,verb,I hosted a party and my friends bailaron a lot.
+switch_adj,97,adj,I did not call her because she gets atareada all the time.
+switch_adj,98,adj,Do not call my dad viejo because he gets mad.
+switch_adj,99,adj,The table that I bought is so chiquita for the living room.
+switch_adj,100,adj,People think she is not terca but she should be more flexible.
+switch_adj,101,adj,I thought his voice sounded sincera when we talked.
+switch_adj,102,adj,The sauce I was making turned out very amarga so we did not eat it.
+switch_adj,103,adj,His dog is always celoso of other animals.
+switch_adj,104,adj,The steak was so salado so we threw it out.
+switch_adj,105,adj,I always go there because she is actually amable to her customers.
+switch_adj,106,adj,She acts coqueta when she is with her boyfriend.
+switch_adj,107,adj,The woman found out that her friend was embarazada with twins.
+switch_adj,108,adj,The purse that my friend bought seems barata compared to the others.
+switch_adj,109,adj,My friend was soltera but she recently started dating someone.
+switch_adj,110,adj,The cat looked contento after we gave him food.
+switch_adj,111,adj,The student fell asleep because he seemed so cansado during class.
+switch_adj,112,adj,The kid was really asustado after the horror movie.
+switch_adv,113,adv,The woman used to go to bed early but ahora she likes to stay up late.
+switch_adv,114,adv,My friends are taking pictures ahora just for the competition.
+switch_adv,115,adv,We went window shopping and the new trend ahora is neutral colors.
+switch_adv,116,adv,My dad went to see the movie ayer and he thought it was boring.
+switch_adv,117,adv,They were tired ayer but they made dinner together anyway.
+switch_adv,118,adv,The man who came ayer wants to buy a new car.
+switch_adv,119,adv,I got on the treadmill enseguida after I got back from class.
+switch_adv,120,adv,She is going to the park hoy before the concert.
+switch_adv,121,adv,I did not order food because sinceramente the restaurant seemed bad.
+switch_adv,122,adv,The boy ya looks like he is tired.
+switch_adv,123,adv,My grandmother siempre goes on a walk after lunch.
+switch_adv,124,adv,She woke up temprano to catch her bus.
+switch_adv,125,adv,The boy nunca finishes the books he starts reading.
+switch_adv,126,adv,I walked despacio to my house after the gym.
+switch_adv,127,adv,The chef cut the bread lentamente before the restaurant opened.
+switch_adv,128,adv,It was loud so the woman apenas slept last night.
