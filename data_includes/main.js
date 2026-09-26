@@ -115,5 +115,6 @@ var items = [
     ["startpractice", Message, {consentRequired: false, html: ["div", ["p", "First you can do six practice sentences."]]}],
   // message that experiment is beginning
     ["starter", Message, {consentRequired: false, html: ["div", ["p", "Time to start the main portion of the experiment!"]]}],
+    ["finish", Message, {consentRequired: false, html: ["div", ["p", "Thanks for completing the experiment! Now you will take a quick self-assessment about your language use and experience."]]}],
     ["completion", "Form", {continueMessage: null, html: { include: "completion.html" } } ]
 ];
