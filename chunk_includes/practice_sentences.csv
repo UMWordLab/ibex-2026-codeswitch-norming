@@ -1,7 +1,7 @@
 item,sentence,feedback
-1,The man went to the peluquero to get a haircut.,"Based on real bilingual data, nouns are the most common code switches, so you might rate it as completely acceptable or close."
-2,The firefighters apagan the fire in the building.,"This is a grammatical verb switch, so you might rate it as completely acceptable or close."
-3,The old man was enojado because the party was loud.,"Based on real bilingual data, switches can happen in adjectives, so you might rate it as completely acceptable or close."
+1,The man went to the peluquero to get a haircut.,"Based on real bilingual data, this type of code-switch would be considered common, so you might rate it as completely acceptable or close to it."
+2,The firefighters apagan the fire in the building.,"Real bilingual data shows switches like this, so you might rate it as completely acceptable or close to it."
+3,The old man was enojado because the party was loud.,"Based on real bilingual data, switches can occur in this position, so you might rate it as completely acceptable or close to it."
 4,The students went to el big building for their class.,"Based on real bilingual data, switching only the determiner before a noun is not common, so you might rate it as unnatural."
-5,She heard that yo forgot the keys inside my car.,Switching a pronoun is heavily constrained and real bilingual data does not show this pattern. You might rate it as unnatural.
-6,I went to the house chiquita again.,"A code-switch is only allowed where the two languages have the same word order. Since English and Spanish have different orders for adjectives, you might rate it as unnatural."
+5,She heard that yo forgot the keys inside my car.,"Switching yo instead of I in this situation is not common in real bilingual data. You might rate it as unnatural.
+6,I went to the house chiquita again.,"A code-switch is more typical where the two languages have the same word order. Since English and Spanish have different orders for adjectives, you might rate it as unnatural."
