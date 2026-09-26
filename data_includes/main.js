@@ -32,9 +32,9 @@ newTrial("bilingualscale",
     newHtml("scale_html", "bilingualscale.html")
         .center()
         .log()
-        .checkboxWarning("您同意后才能继续。")
-        .radioWarning("您需要选择一个选项。")
-        .inputWarning("这个部分需要填写。")
+        .checkboxWarning("You must agree before continuing.")
+        .radioWarning("You need to select an option.")
+        .inputWarning("This field is required.")
         .print()
     ,
     newButton("continue", "Continue")
