@@ -18,7 +18,7 @@ newTrial("IDentry",
         getVar("partID").set(v => $("#partID").val()).testNot.is('') // wait for a valid input
     )
 )
-.log("partID", getVar("partID")); // ;og participant ID
+
 // header to log ID on every trial
 // run at the beginning of each trial
 Header(
