@@ -1,6 +1,8 @@
 PennController.ResetPrefix()
 
 var showProgressBar = false;
+
+var manualSendResults = true;
                          
 var defaults = [
     "Separator", {
