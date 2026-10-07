@@ -134,7 +134,7 @@ function modifyRunningOrder(ro) {
         item_count++;
         new_ro.push(item);
         // first number after item count is how many items between breaks. second is total-items - 1
-        if (item_count% 4 ===0 && item_count<128){
+        if (item_count% 32 ===0 && item_count<128){
         // value here should be total_items - items_per_block (to trigger message that last block is coming up)
             if (item_count === 124){
                 text="End of block. Only 1 block left!";
